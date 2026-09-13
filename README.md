@@ -12,7 +12,7 @@
 
 ---
 
-## 🧪 About Me
+## About Me
 
 I'm a Computer Science graduate with hands-on experience in **Software Quality Assurance**, including **Manual Testing, API Testing, Regression Testing, and Test Automation** using Playwright and Selenium WebDriver.
 
