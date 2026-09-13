@@ -83,6 +83,15 @@ I enjoy designing and executing test cases, identifying and reporting defects, a
 
 🔗 [View Repository](https://github.com/Lorin-02/nopCommerce-Manual-Testing)
 
+### Selenium Automation: DemoQA Practice Form
+**Selenium WebDriver, Node.js**
+
+- Built a Selenium WebDriver automation script in JavaScript (Node.js) to fill and submit the DemoQA Practice Form end-to-end.
+- Automated entry of personal details (name, email, gender, mobile number), date of birth, subject/hobby selection, picture upload, and state/city selection.
+- Handled form submission and browser lifecycle (launch, maximize, close) programmatically.
+
+🔗 [View Repository](https://github.com/Lorin-02/Selenium)
+
 ---
 
 ## 🎓 Education
