@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Shurfa Maliha Lorin</h1>
+<h1 align="center">Hi there , I'm Shurfa Maliha Lorin</h1>
 <h3 align="center">QA / SQA Engineer | Manual & Automation Testing</h3>
 
 <p align="center">
