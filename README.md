@@ -1,8 +1,8 @@
-<h1 align="center">Hi there , I'm Shurfa Maliha Lorin</h1>
+<h1 align="center">Hi there, I'm Shurfa Maliha Lorin</h1>
 <h3 align="center">QA / SQA Engineer | Manual & Automation Testing</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shurfa-maliha-lorin" target="_blank">
+  <a href="https://www.linkedin.com/in/shurfa-maliha-lorin-481017228" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shurfamalihalorin@gmail.com">
@@ -38,6 +38,7 @@ I enjoy designing and executing test cases, identifying and reporting defects, a
 <p>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestRail-4F46E5?style=flat-square&logo=testrail&logoColor=white" />
   <img src="https://img.shields.io/badge/Bugzilla-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -112,6 +113,6 @@ Assisted faculty in lectures, grading, and mentoring students to ensure academic
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shurfa-maliha-lorin)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shurfa-maliha-lorin-481017228)
 - 🐙 [GitHub](https://github.com/Lorin-02)
 - 📧 shurfamalihalorin@gmail.com
