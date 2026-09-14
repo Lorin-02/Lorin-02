@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shurfa-maliha-lorin-481017228" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shurfamalihalorin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -27,30 +27,30 @@ I enjoy designing and executing test cases, identifying and reporting defects, a
 **Automation & API Testing**
 
 <p>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Newman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-0EA5E9?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-0EA5E9?style=flat-square&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-0EA5E9?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Newman-0EA5E9?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
 **Tools**
 
 <p>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/TestRail-4F46E5?style=flat-square&logo=testrail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bugzilla-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0EA5E9?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0EA5E9?style=flat-square&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestRail-0EA5E9?style=flat-square&logo=testrail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bugzilla-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Git-0EA5E9?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0EA5E9?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 **Technical Skills**
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-0EA5E9?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-0EA5E9?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-0EA5E9?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-0EA5E9?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
 **Testing Concepts:** SDLC · STLC · Defect Lifecycle · Agile Methodology · Scrum
