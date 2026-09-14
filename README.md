@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Shurfa Maliha Lorin</h1>
-<h3 align="center">QA / SQA Engineer | Manual & Automation Testing</h3>
+<h3 align="center">Aspiring QA / SQA Engineer | Manual & Automation Testing</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shurfa-maliha-lorin-481017228" target="_blank">
@@ -20,7 +20,7 @@ I enjoy designing and executing test cases, identifying and reporting defects, a
 
 ---
 
-## 🧰 Skills
+## Skills
 
 **Manual Testing:** Functional · Regression · Smoke · System · Sanity Testing · Test Case Design · Bug Reporting
 
@@ -57,7 +57,7 @@ I enjoy designing and executing test cases, identifying and reporting defects, a
 
 ---
 
-## 🚀 QA Projects
+## QA Projects
 
 ### E-Commerce Test Automation Framework
 **SauceDemo | Playwright, Postman, Newman**
@@ -65,7 +65,7 @@ I enjoy designing and executing test cases, identifying and reporting defects, a
 - Built Playwright automation scripts for login, cart, checkout, and purchase workflows using the Page Object Model (POM) and automated assertions.
 - Generated HTML test reports and performed functional/regression testing.
 
-🔗 [View Repository](https://github.com/Lorin-02/automation-project)
+[View Repository](https://github.com/Lorin-02/automation-project)
 
 ### E-Commerce Website Testing
 **EverShop | Manual & API Testing**
@@ -73,7 +73,7 @@ I enjoy designing and executing test cases, identifying and reporting defects, a
 - Designed manual test scenarios and test cases for search, cart, and checkout workflows.
 - Performed API testing with Postman and documented defects using structured bug reporting techniques.
 
-🔗 [View Repository](https://github.com/Lorin-02/Manual_Testing)
+[View Repository](https://github.com/Lorin-02/Manual_Testing)
 
 ### nopCommerce Manual Testing
 **nopCommerce Demo Website | Manual Testing**
@@ -81,7 +81,7 @@ I enjoy designing and executing test cases, identifying and reporting defects, a
 - Designed and executed **304 manual test cases** covering end-to-end e-commerce workflows — registration, product browsing, cart, checkout, and account management.
 - Performed functional testing and maintained a test execution summary and project repository.
 
-🔗 [View Repository](https://github.com/Lorin-02/nopCommerce-Manual-Testing)
+[View Repository](https://github.com/Lorin-02/nopCommerce-Manual-Testing)
 
 ### Selenium Automation: DemoQA Practice Form
 **Selenium WebDriver, Node.js**
@@ -90,11 +90,11 @@ I enjoy designing and executing test cases, identifying and reporting defects, a
 - Automated entry of personal details (name, email, gender, mobile number), date of birth, subject/hobby selection, picture upload, and state/city selection.
 - Handled form submission and browser lifecycle (launch, maximize, close) programmatically.
 
-🔗 [View Repository](https://github.com/Lorin-02/Selenium)
+[View Repository](https://github.com/Lorin-02/Selenium)
 
 ---
 
-## 🎓 Education
+## Education
 
 **MSc. in Computer Science & Engineering** — BRAC University
 *Jan 2025 – Present | Thesis Ongoing*
@@ -104,7 +104,7 @@ I enjoy designing and executing test cases, identifying and reporting defects, a
 
 ---
 
-## 📜 Certification
+## Certification
 
 **Software Quality Assurance (SQA)** — Ostad
 *Dec 2025 – Jun 2026*
@@ -112,7 +112,7 @@ Covered Manual Testing, SDLC, STLC, Test Case Design, Bug Reporting, and API Tes
 
 ---
 
-## 📚 Academic Experience
+## Academic Experience
 
 **Teaching Assistant (Full-time)** — University of Liberal Arts Bangladesh (ULAB)
 *2023 – 2024*
@@ -120,8 +120,8 @@ Assisted faculty in lectures, grading, and mentoring students to ensure academic
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shurfa-maliha-lorin-481017228)
-- 🐙 [GitHub](https://github.com/Lorin-02)
-- 📧 shurfamalihalorin@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/shurfa-maliha-lorin-481017228)
+- [GitHub](https://github.com/Lorin-02)
+- shurfamalihalorin@gmail.com
